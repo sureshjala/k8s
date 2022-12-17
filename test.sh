@@ -1,4 +1,5 @@
 #!/bin/bash 
+sudo -i
 
 sudo apt update 
 
